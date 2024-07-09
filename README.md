@@ -1,0 +1,21 @@
+- 👋 Hi, I’m @reallilboy
+- 👀 I’m interested in programming 
+- 🌱 never stop learning 
+- ✔️ just do it
+- ⚡ fact: The truth of the world flows in your mind
+- 🔥👇🏻 my abilities
+- 🐧 LINUX ESSENTIALS ⭐
+- 🖥️ html css(bootstrap) ⭐⭐
+- 🧬 JavaScript (react)⭐
+- 🐬 mysql ⭐
+- 🐍 python(Django)⭐⭐
+- ✂️ wordpress (elementor)⭐
+- 📚🧾And I had other studies in these fields
+- 🐱 git and GitHub
+- 👾 c/c++
+- 🧮 algorithm
+- 🌐 network
+- 🧩 regex
+- 🚢 docker
+- 🏠And my smallest projects
+-  
