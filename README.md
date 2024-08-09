@@ -6,16 +6,15 @@
 - 🔥👇🏻 my abilities
 - 🐧 LINUX ESSENTIALS ⭐
 - 🖥️ html css(bootstrap) ⭐⭐
-- 🧬 JavaScript (react)⭐
+- 🧬 JavaScript (react)
 - 🐬 mysql ⭐
 - 🐍 python(Django)⭐⭐
 - ✂️ wordpress (elementor)⭐
 - 📚🧾And I had other studies in these fields
 - 🐱 git and GitHub
-- 👾 c/c++
-- 🧮 algorithm
-- 🌐 network
-- 🧩 regex
-- 🚢 docker
-- 🏠And my smallest projects
--  
+- 👾 c/c++(basic)
+- 🧮 algorithm(basic)
+- 🌐 network(basic)
+- 🧩 regex(basic)
+- 🚢 docker(basic)
+- 📱 tailwind & sass (basic)
